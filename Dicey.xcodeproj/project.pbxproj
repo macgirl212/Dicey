@@ -11,6 +11,7 @@
 		3BF3DE0B2A41FE0A00101FB1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF3DE0A2A41FE0A00101FB1 /* ContentView.swift */; };
 		3BF3DE0D2A41FE0B00101FB1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BF3DE0C2A41FE0B00101FB1 /* Assets.xcassets */; };
 		3BF3DE102A41FE0B00101FB1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BF3DE0F2A41FE0B00101FB1 /* Preview Assets.xcassets */; };
+		3BF3DE172A4202E500101FB1 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF3DE162A4202E500101FB1 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3BF3DE0A2A41FE0A00101FB1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3BF3DE0C2A41FE0B00101FB1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3BF3DE0F2A41FE0B00101FB1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3BF3DE162A4202E500101FB1 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3BF3DE082A41FE0A00101FB1 /* DiceyApp.swift */,
 				3BF3DE0A2A41FE0A00101FB1 /* ContentView.swift */,
+				3BF3DE162A4202E500101FB1 /* SettingsView.swift */,
 				3BF3DE0C2A41FE0B00101FB1 /* Assets.xcassets */,
 				3BF3DE0E2A41FE0B00101FB1 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BF3DE172A4202E500101FB1 /* SettingsView.swift in Sources */,
 				3BF3DE0B2A41FE0A00101FB1 /* ContentView.swift in Sources */,
 				3BF3DE092A41FE0A00101FB1 /* DiceyApp.swift in Sources */,
 			);
